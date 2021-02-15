@@ -27,7 +27,7 @@ SECRET_KEY = '9ox5kg9x=ecp=498_ab#)1&fcqpbsm5)5!=!nfg5apnveo+e!p'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['sagar-crm1.herokuapp.com', '127.0.0.1']
+ALLOWED_HOSTS = ['crmlive-1.herokuapp.com', '127.0.0.1']
 
 
 # Application definition
